@@ -22,6 +22,7 @@ This Python application allows users to find the shortest path between two locat
 
    ```bash
    git clone https://github.com/Abdoubelalmi/shortest-path-project.git
+   cd shortest-path-project
    cd shortest-path-finder
    ```
 
