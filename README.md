@@ -39,9 +39,6 @@ This Python application allows users to find the shortest path between two locat
 
 4. Click the "Find Shortest Path" button to calculate and display the shortest path between the selected locations.
 
-## Contributing
-
-Contributions are welcome! If you have any suggestions, feature requests, or bug reports, please open an issue on GitHub or submit a pull request.
 
 ## Screenshots
 
@@ -50,7 +47,3 @@ _Screenshot 1: Application interface showing the selection of a city and source/
 
 ![Shortest Path Display](screenshots/map_with_shortest_path.png)
 _Screenshot 2: Application interface displaying the shortest path between two locations._
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
