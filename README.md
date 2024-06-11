@@ -21,7 +21,7 @@ This Python application allows users to find the shortest path between two locat
 3. Download or clone this repository to your local machine.
 
    ```bash
-   git clone https://github.com/shortest-path-project/shortest-path-finder.git
+   git clone https://github.com/Abdoubelalmi/shortest-path-project.git
    cd shortest-path-finder
    ```
 
